@@ -1,0 +1,7 @@
+module ScopeX
+typeinfo appscopex.qmltypes
+prefer :/qt/qml/ScopeX/
+Main 1.0 Main.qml
+ScopeChart 1.0 ScopeChart.qml
+DFTChart 1.0 DFTChart.qml
+

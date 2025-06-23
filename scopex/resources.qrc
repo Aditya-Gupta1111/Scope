@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/qt/qml/ScopeX">
+        <file>Main.qml</file>
+        <file>ScopeChart.qml</file>
+        <file>DFTChart.qml</file>
+    </qresource>
+</RCC>
